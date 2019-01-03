@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+ZeroBddWebUiTest/bin/
+ZeroBddWebUiTest/obj/
+ZeroBddWebUiTest/packages/
+ZeroBddWebUiTest/.vs/
